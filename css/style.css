@@ -1,25 +1,25 @@
 html {
-    background-color: greenyellow;
-    font-family: 'Tangerine', serif;
+    backface-visibility: visible;
+    background-color: aqua;
+    font-family: Tangerine, serif;
     font-size: 48px;
 }
 body {
+    background color: aqua;
     background-clip: border-box;
-    margin: auto;
-    border-width: medium;
-    background-color: #B0171F;
-    ;
-    font-size: 48px;
+    border-style: dotted;
+    border-radius: 1.3px;
 }
 h1 {
-    color: #009ACD;
-    font-weight: 800;
-    line-height: normal;
-}
-h2 {
-    margin top: 1.4em;
+    font-stretch: extra-expanded;
+    font-size: 48px;
 }
 b,
 strong {
     font-weight: 600;
+}
+border-boxx {
+    padding-bottom: 20px;
+    padding-top: : 20px;
+    width: auto;
 }
